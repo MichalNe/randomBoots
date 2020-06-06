@@ -1,0 +1,9 @@
+body{
+	background-color: #323232;
+	color: #ffffff;
+}
+
+.currentDayBoot{
+	border: 5px solid #ff0000;
+}
+
